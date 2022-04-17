@@ -14,11 +14,9 @@ FIgma
 Team Member Name: Sanket Sharma, Piyush, Rohit Singh
 
 
-``NOTE: This information will only be used for official interaction purposes.``
-
 ## Screenshots and reference Images
 
-``It includes some screenshots and images of your project.``
+- [Figma](https://www.figma.com/file/ozDd3zfhWaook29V5lB3g5/Test?node-id=0%3A1)
 
 ## Links and References: 
 
