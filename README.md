@@ -22,8 +22,8 @@ Team Member Name: Sanket Sharma, Piyush, Rohit Singh
 
 ## Links and References: 
 
-- [Devfolio](your_devfolio_link_here)
+- [Devfolio](https://devfolio.co/@OneAutumnLeaf)
 
-- [GitHub](your_github_link_here)
+- [Figma](https://www.figma.com/file/ozDd3zfhWaook29V5lB3g5/Test?node-id=0%3A1)
 
-- [Youtube](your_demo_video_link_here)
+- [Youtube](https://youtu.be/hVEhQPUo_UU)
