@@ -6,8 +6,8 @@ Meantal Health + No Code Solution
 
 ## Tech Stack Used
 
-Bravo Studio
-FIgma
+- Bravo Studio
+- Figma
 
 ## Team Description
 
