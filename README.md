@@ -20,7 +20,7 @@ Team Member Name: Sanket Sharma, Piyush, Rohit Singh
 
 ## Links and References: 
 
-- [Devfolio](https://devfolio.co/@OneAutumnLeaf)
+- [Devfolio](https://devfolio.co/projects/absolute-zero-e6c0)
 
 - [Figma](https://www.figma.com/file/ozDd3zfhWaook29V5lB3g5/Test?node-id=0%3A1)
 
